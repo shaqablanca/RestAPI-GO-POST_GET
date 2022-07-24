@@ -1,4 +1,3 @@
-Before start run `go mod download`
 
 # REST API EXERCISE ORNESS
 
@@ -27,6 +26,7 @@ Creating a REST API that is developed by keeping the data in Internal Memory (By
 
 
 ### Notes :
-    * go run main.go
+    * Before start run "go mod download"
+    * go run "main.go"
     * Rest API has been tested by using Postman (POST, GET)
 
